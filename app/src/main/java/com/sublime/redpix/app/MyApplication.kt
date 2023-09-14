@@ -1,6 +1,7 @@
-package com.sublime.redpix
+package com.sublime.redpix.app
 
 import android.app.Application
+import com.sublime.redpix.BuildConfig
 import timber.log.Timber
 
 class MyApplication : Application(){

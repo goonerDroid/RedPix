@@ -1,4 +1,4 @@
-package com.sublime.redpix
+package com.sublime.redpix.app
 
 import android.util.Log
 import timber.log.Timber

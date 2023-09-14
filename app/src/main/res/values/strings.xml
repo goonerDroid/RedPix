@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">RedPix</string>
+
+    <!-- HomeViewPagerFragment values -->
+    <string name="images">Images</string>
+    <string name="my_collection">My Collection</string>
 </resources>
